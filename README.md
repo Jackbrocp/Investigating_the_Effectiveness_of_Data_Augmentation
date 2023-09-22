@@ -22,6 +22,6 @@ You can directly start off using our implementations.
 
 ### Train Examples 
 #### Download the Embedding Models
-[CIFAR-10](https://drive.google.com/file/d/1Y7BR3--gQfeXO9S7KPe3FirbhEiAbtUk/view?usp=sharing)
+[ResNet-18](https://drive.google.com/file/d/1fTHi6TiRhaxD3iDgPYcOe7Smt1ZzTaAf/view?usp=drive_link)
 
-[CIFAR-100](https://drive.google.com/file/d/1bqf3tMpmng-jq-JplM1hGup7_BYYmxob/view?usp=drive_link)
+[ResNet-50](https://drive.google.com/file/d/1h_87fZF2prm4DHXUkl_6WeGpD7JF0dt4/view?usp=drive_link)
