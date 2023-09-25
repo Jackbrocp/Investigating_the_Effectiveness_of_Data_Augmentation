@@ -3,7 +3,7 @@ This is the official implementation of the paper "Investigating the Effectivenes
 We release all the codes of our work (both for embedding model training and metric computation).
 
 You can directly start off using our implementations.
-## Use AdvMask for data augmentation
+## Usage
 - Clone this directory and `cd`  into it.
  
 `git clone https://github.com/Jackbrocp/Investing_the_Effectiveness_of_Data_Augmentation` 
