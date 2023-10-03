@@ -11,7 +11,7 @@ You can directly start off using our implementations.
 `cd Investing_the_Effectiveness_of_Data_Augmentation`
 
 ## Updates
-- 2023/9/: Initial release
+- 2023/10/03: Initial release
 
 ## Getting Started
 ### Requirements
