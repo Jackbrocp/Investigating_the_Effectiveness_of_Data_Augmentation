@@ -30,6 +30,6 @@ You can directly start off using our implementations.
 To train the embedding models on your own, please see './Embedding_model_training' folder.
  
 ### Usage Examples 
-
+This can be seen in the 'Usage_examples.sh'
 ## Acknowledge 
 https://github.com/microsoft/otdd
