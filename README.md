@@ -36,7 +36,7 @@ https://github.com/microsoft/otdd
 
 ## Citation
  If you find this repository useful in your research, please cite our paper:
- '
+`
  @article{YANG2024110204,
 title = {Investigating the effectiveness of data augmentation from similarity and diversity: An empirical study},
 journal = {Pattern Recognition},
@@ -48,4 +48,4 @@ doi = {https://doi.org/10.1016/j.patcog.2023.110204},
 url = {https://www.sciencedirect.com/science/article/pii/S0031320323009019},
 author = {Suorong Yang and Suhan Guo and Jian Zhao and Furao Shen}
 }
- '
+`
