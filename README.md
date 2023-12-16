@@ -1,8 +1,8 @@
 # Investigating the Effectiveness of Data Augmentation from Similarity and Diversity: An Empirical Study
-This is the official implementation of the paper "Investigating the Effectiveness of Data Augmentation from Similarity and Diversity: An Empirical Study", as was used for the paper.
+This is the official implementation of the [paper](https://www.sciencedirect.com/science/article/pii/S0031320323009019) "Investigating the Effectiveness of Data Augmentation from Similarity and Diversity: An Empirical Study", as was used for the paper.
 We release all the codes of our work (both for embedding model training and metric computation).
 
-You can directly start off using our implementations.
+You can start off using our implementations directly.
 ## Usage
 - Clone this directory and `cd`  into it.
  
@@ -33,3 +33,19 @@ To train the embedding models on your own, please see './Embedding_model_trainin
 This can be seen in the 'Usage_examples.sh'
 ## Acknowledge 
 https://github.com/microsoft/otdd
+
+## Citation
+ If you find this repository useful in your research, please cite our paper:
+ '
+ @article{YANG2024110204,
+title = {Investigating the effectiveness of data augmentation from similarity and diversity: An empirical study},
+journal = {Pattern Recognition},
+volume = {148},
+pages = {110204},
+year = {2024},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2023.110204},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320323009019},
+author = {Suorong Yang and Suhan Guo and Jian Zhao and Furao Shen}
+}
+ '
