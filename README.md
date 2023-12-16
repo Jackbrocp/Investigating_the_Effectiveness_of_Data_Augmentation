@@ -36,6 +36,7 @@ https://github.com/microsoft/otdd
 
 ## Citation
  If you find this repository useful in your research, please cite our paper:
+ 
 `
  @article{YANG2024110204,
 title = {Investigating the effectiveness of data augmentation from similarity and diversity: An empirical study},
