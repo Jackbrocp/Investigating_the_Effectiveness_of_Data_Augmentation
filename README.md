@@ -23,9 +23,9 @@ You can start off using our implementations directly.
 <!-- Install a fitting Pytorch version for your setup with GPU support, as our implementation  -->
 
 ### Download the Embedding Models
-[ResNet-18](https://drive.google.com/file/d/1fTHi6TiRhaxD3iDgPYcOe7Smt1ZzTaAf/view?usp=drive_link)
+[ResNet-18](https://drive.google.com/file/d/1fTHi6TiRhaxD3iDgPYcOe7Smt1ZzTaAf/view?usp=sharing)
 
-[ResNet-50](https://drive.google.com/file/d/1h_87fZF2prm4DHXUkl_6WeGpD7JF0dt4/view?usp=drive_link)
+[ResNet-50](https://drive.google.com/file/d/1h_87fZF2prm4DHXUkl_6WeGpD7JF0dt4/view?usp=sharing)
 
 To train the embedding models on your own, please see './Embedding_model_training' folder.
  
